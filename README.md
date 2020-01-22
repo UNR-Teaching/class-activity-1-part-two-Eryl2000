@@ -1,3 +1,7 @@
+# Names
+Kyle Brainard\
+Eryl Kenner
+
 # Class Activity 1 part two
 
 Your first paired programming problem!
