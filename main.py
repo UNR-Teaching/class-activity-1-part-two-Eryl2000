@@ -1,4 +1,4 @@
-from vehicle import Car, Bike
+from vehicles import Car, Bike
 
 def main():
     car = Car("Ford Pinto")
